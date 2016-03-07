@@ -33,3 +33,11 @@ Download an install the plugin to the wp-content plugins folder. Then from Wordp
 A New menu item of ArrowDB Push should appear in the left hand side of the admin menu in Wordpress. Click on settings and add your App Key, Username and Password.
 
 Once this is done click on ArrowDBPush for a simple interface. The options are very limited at present but all fields are required.
+
+## Road Map
+1. Configure all availble fields for push.
+2. Obtain a list of channels
+3. Make a bit more dynamic
+
+## Relase Notes
+V1.0 Relased
