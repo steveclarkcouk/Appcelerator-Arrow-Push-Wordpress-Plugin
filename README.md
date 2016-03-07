@@ -1,6 +1,6 @@
 # Wordpress Appcelerator-Cloud-REST-SDK
 
-Integration of Appcelerator Cloud REST SDK into Wordpress for use with Push Notifcations. This is a very simple plugin that will be developed upon in the future.
+Integration of Appcelerator Cloud REST SDK into Wordpress for use with Push Notifcations. This is a very simple plugin that will be developed upon in the future. The REST SDK is 'ACS Cloud Service PHP Helper Class by WisdomSky' - https://github.com/WisdomSky/Appcelerator-Cloud-REST-PHP-SDK.
 
 ## Configure Your App For Push
 
