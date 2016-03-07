@@ -172,6 +172,7 @@ class ArrowDB_Push_Admin extends ArrowDB_Push_Base_Class {
 			"channel"   => $channel, 
 			"alert"		=> $message,
 			"title"		=> $title,
+			"to_ids"	=> 'everyone'			// -- Need To Make Editable
 			"sound"		=> 'none',				// -- Make Sound Editable
 			"vibrate"	=> 'false'				// -- Make Vibrate Editable
 			//"badge"			=> ''			// -- Make Badge Editable
